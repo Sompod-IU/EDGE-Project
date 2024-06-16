@@ -9,16 +9,16 @@ import saleImgThree from "./sale/saleImgThree.webp";
 // ============== Products Start here ====================
 import pdf1 from "../pdf/pdf1.pdf";
 // New Arrivals
-import newArrOne from "./products/newArrival/newArrOne.webp";
-import newArrTwo from "./products/newArrival/newArrTwo.webp";
-import newArrThree from "./products/newArrival/newArrThree.webp";
-import newArrFour from "./products/newArrival/newArrFour.webp";
+import newArrOne from "./products/newArrival/newArrOne.jpg";
+import newArrTwo from "./products/newArrival/newArrTwo.jpg";
+import newArrThree from "./products/newArrival/newArrThree.jpeg";
+import newArrFour from "./products/newArrival/newArrFour.jpeg";
 
 // Best Sellers
-import bestSellerOne from "./products/bestSeller/bestSellerOne.webp";
-import bestSellerTwo from "./products/bestSeller/bestSellerTwo.webp";
-import bestSellerThree from "./products/bestSeller/bestSellerThree.webp";
-import bestSellerFour from "./products/bestSeller/bestSellerFour.webp";
+import bestSellerOne from "./products/bestSeller/bestSellerOne.jpeg";
+import bestSellerTwo from "./products/bestSeller/bestSellerTwo.jpg";
+import bestSellerThree from "./products/bestSeller/bestSellerThree.jpg";
+import bestSellerFour from "./products/bestSeller/bestSellerFour.jpeg";
 import imprimante1 from "./products/bestSeller/imprimante1.webp";
 import imprimante2 from "./products/bestSeller/imprimante2.webp";
 import imprimante4 from "./products/bestSeller/imprimante4.webp";
@@ -41,10 +41,10 @@ import ruban3 from "./products/bestSeller/ruban3.webp";
 import ruban4 from "./products/bestSeller/ruban4.webp";
 
 // Special Offers
-import spfOne from "./products/specialOffer/spfOne.webp";
-import spfTwo from "./products/specialOffer/spfTwo.webp";
-import spfThree from "./products/specialOffer/spfThree.webp";
-import spfFour from "./products/specialOffer/spfFour.webp";
+import spfOne from "./products/specialOffer/spfOne.jpeg";
+import spfTwo from "./products/specialOffer/spfTwo.jpg";
+import spfThree from "./products/specialOffer/spfThree.jpg";
+import spfFour from "./products/specialOffer/spfFour.jpeg";
 
 // Year Product
 import productOfTheYear from "./products/productOfTheYear.webp";
